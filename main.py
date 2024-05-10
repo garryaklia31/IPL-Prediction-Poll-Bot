@@ -23,7 +23,7 @@ poll_data_path = 'poll_info.csv'
 #Talk to @BotFather to create your BOT and generate access tocken
 #https://core.telegram.org/bots#6-botfather
 
-API_TOKEN = #Enter your Telegram bot Token here
+API_TOKEN = 7195738934:AAE5ifhCN-JFDQ7aHjuioFWbi_4GgY9Noug
 
 
 # -----------------------------
